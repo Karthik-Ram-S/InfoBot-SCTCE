@@ -1,9 +1,10 @@
 # InfoBot - SCTCE
 
+Welcome to InfoBot - SCTCE, your virtual assistant for Sree Chitra Thirunal College of Engineering (SCTCE), Thiruvananthapuram.
+
 ## Overview
 
-InfoBot - SCTCE is designed to provide information and assistance related to SCTCE, including departments, faculty, courses, and other quries. It aims to enhance accessibility to campus-related information through a user-friendly chatbot interface.
-
+InfoBot - SCTCE is a chatbot built using WatsonX assistance, designed to provide information and assistance related to SCTCE, including departments, faculty, courses, and upcoming events. It aims to enhance accessibility to campus-related information through a user-friendly interface.
 
 ## Access InfoBot - SCTCE
 
@@ -27,11 +28,11 @@ Above are screenshots of the InfoBot - SCTCE interface.
 
 ## Usage
 
-- InfoBot - SCTCE can provide information on various aspects of SCTCE, such as departments, faculty, courses, and upcoming events.
-- Feel free to interact with the chatbot to discover more about SCTCE and its offerings.
+- InfoBot - SCTCE can provide detailed information on SCTCE's departments, faculty, courses, and upcoming events.
+- Users can interact with the chatbot to obtain quick answers and navigate through campus-related queries efficiently.
 
 ## Contributing
 
-If you have suggestions for improving InfoBot - SCTCE or find any issues, please open an issue or submit a pull request.
+If you have suggestions for improving InfoBot - SCTCE or encounter any issues, please feel free to open an issue or submit a pull request on [GitHub](https://github.com/Karthik-Ram-S/InfoBot-SCTCE).
 
-representations through screenshots linked directly from your GitHub repository, and guidelines for usage and contribution. Customize it further based on specific features and updates related to SCTCE.
+
